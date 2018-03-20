@@ -557,13 +557,13 @@ footer button {
 
   #nav-check:checked~.menu a,#nav-check~.menu a {
     display: inline-block;
-    width: 90px;
+    width: 100px;
     height: 30px;
     text-align: center;
     text-decoration: none;
     font-size: 12pt;
     color: #f2f2f2;
-    background: #89937c;
+    background: #178BEC;
     padding-top: 8px;
     margin: 0;
     padding-bottom: 0;

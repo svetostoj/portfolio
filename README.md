@@ -7,7 +7,7 @@
 
 # Design Process 1 – Mood board
 - Figma was used to design graphics. Still need time to take some control of this tool.
-
+![Figma Design text](/portfolio_figma.png)
 # Design Process 2 – Font selection  
 - I used Raleway and Crete Round fonts
 
